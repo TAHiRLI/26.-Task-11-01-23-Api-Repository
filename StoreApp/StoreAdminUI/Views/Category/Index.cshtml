@@ -1,0 +1,34 @@
+﻿
+
+@model PaginatedVM<CategoryListItem>
+@{
+    ViewData["Title"] = "Index";
+    var order = 0;
+}
+
+<h1>Index</h1>
+<div class="col-md-8 m-auto">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">id</th>
+                <th scope="col">name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model.Items)
+            {
+                 <tr>
+                <th scope="row">1</th>
+                <td>@category.Id</td>
+                <td>@category.Name</td>
+            </tr> 
+            }
+          
+           
+        </tbody>
+    </table>
+</div>
+

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "vIuUyeiGqIX1Otwm0u62ebxl41l1iyINtcEzxE9uWAU=",
+  "Source": "StoreApi",
+  "BasePath": "_content/StoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StoreApi\\wwwroot",
+      "Source": "StoreApi",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\",
+      "BasePath": "_content/StoreApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\Uploads\\Products\\661c2674-bd18-4b79-b279-08e25ffc70edh6-img-9.jpg",
+      "SourceId": "StoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\",
+      "BasePath": "_content/StoreApi",
+      "RelativePath": "Uploads/Products/661c2674-bd18-4b79-b279-08e25ffc70edh6-img-9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Products\\661c2674-bd18-4b79-b279-08e25ffc70edh6-img-9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\Uploads\\Products\\7a126972-6d7d-4ef9-a6fa-f197fb0eae63h6-img-8.jpg",
+      "SourceId": "StoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\",
+      "BasePath": "_content/StoreApi",
+      "RelativePath": "Uploads/Products/7a126972-6d7d-4ef9-a6fa-f197fb0eae63h6-img-8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Products\\7a126972-6d7d-4ef9-a6fa-f197fb0eae63h6-img-8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\Uploads\\Products\\f8ee636f-123f-451e-8116-7c15c5960b93h3-team-img-1 - Copy.png",
+      "SourceId": "StoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\26. Task 11-01-23 Api Repository\\StoreApp\\StoreApi\\wwwroot\\",
+      "BasePath": "_content/StoreApi",
+      "RelativePath": "Uploads/Products/f8ee636f-123f-451e-8116-7c15c5960b93h3-team-img-1 - Copy.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Products\\f8ee636f-123f-451e-8116-7c15c5960b93h3-team-img-1 - Copy.png"
+    }
+  ]
+}
